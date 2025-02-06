@@ -1,2 +1,1 @@
-bin/
-secrets.txt
+aaaaaaa
